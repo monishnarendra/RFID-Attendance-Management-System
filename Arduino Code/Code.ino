@@ -31,8 +31,8 @@ RtcDS3231<TwoWire> rtcObject(Wire);
 
 #define FIREBASE_HOST "--"
 #define FIREBASE_AUTH "--"
-#define WIFI_SSID "Monish"
-#define WIFI_PASSWORD "123456789"
+#define WIFI_SSID "--"
+#define WIFI_PASSWORD "--"
 
 #define RST_PIN  D3
 #define SS_PIN   D4
