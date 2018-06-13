@@ -29,8 +29,8 @@
 
 RtcDS3231<TwoWire> rtcObject(Wire);
 
-#define FIREBASE_HOST "ams-rfid.firebaseio.com"
-#define FIREBASE_AUTH "U4yp1HS5SGm75Rm26fRRvWnbXdi0RfEeUZqSQ4gn"
+#define FIREBASE_HOST "--"
+#define FIREBASE_AUTH "--"
 #define WIFI_SSID "Monish"
 #define WIFI_PASSWORD "123456789"
 
