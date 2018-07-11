@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AMS_RFID_MNMG</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="signin">SignIn</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="registration">Registration</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="password_reset_subtext">Please Enter your Email ID to Reset your Account Password</string>
+    <string name="enter_your_email_id">Enter your Email Id</string>
+    <string name="please_tap_on_camera_icon_to_choose_a_profile_picture">Please Tap on camera icon to Choose a Profile Picture</string>
+    <string name="image_size_must_be_less_than_300_x_300">Image Size Must Be less Than 300 x 300</string>
+    <string name="enter_display_name">Enter Display Name</string>
+    <string-array name="signUpCategory_array">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="signUpSemester_array">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+        <item>5th Year</item>
+        <item>6th Year</item>
+        <item>7th Year</item>
+        <item>8th Year</item>
+    </string-array>
+</resources>
